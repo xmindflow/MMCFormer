@@ -31,7 +31,7 @@ This code has been implemented in python language using Pytorch library and test
 ## Run Demo
 For training deep model and evaluating on the BraTA 2018 dataset set follow the bellow steps:</br>
 1- Download the BraTS 2018 train dataset from [this](https://www.kaggle.com/sanglequang/brats2018) link and extract it inside the `dataset_BraTS2018` folder. </br>
-2- Run `train.ipynb` for training the model. </br>
+2- Run `train.py` for training the model. </br>
 3- For performance calculation and producing segmentation result, run `evaluation.ipynb`.</br>
 
 Notice: our implementation uses the SMU codes: https://github.com/rezazad68/smunet
@@ -39,7 +39,7 @@ Notice: our implementation uses the SMU codes: https://github.com/rezazad68/smun
 
 
 ## Quick Overview
-![Diagram of the proposed method](https://github.com/mindflow-institue/MMCFormer/images/method.png)
+![Diagram of the proposed method](https://github.com/mindflow-institue/MMCFormer/blob/main/images/method.png)
 
 
 
