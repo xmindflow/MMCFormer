@@ -5,6 +5,7 @@ In this research work, to address missing modality issue in the MRI-based semant
 If this code helps with your research please consider citing the following paper:
 </br>
 
+```python
 @inproceedings{
 karimijafarbigloo2023mmcformer,
 title={{MMCF}ormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation},
@@ -13,14 +14,15 @@ booktitle={Medical Imaging with Deep Learning},
 year={2023},
 url={https://openreview.net/forum?id=PD0ASSmvlE}
 }
-
+```
 
 
 
 #### Please consider starring us, if you found it useful. Thanks
 
 ## Updates
-- April 30, 2023: First release will announce. 
+- April 30, 2023: First release will announce.  </br>
+- Paper accepted in MIDL2023
 
 This code has been implemented in python language using Pytorch library and tested in ubuntu OS, though should be compatible with related environment. following Environement and Library needed to run the code:
 
